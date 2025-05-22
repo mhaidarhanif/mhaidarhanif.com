@@ -1,6 +1,6 @@
 # mhaidarhanif.com
 
-The new personal website of M Haidar Hanif. Built by myself in 2025.
+The new personal website of M Haidar Hanif. Built by myself in May 2025.
 
 Pages:
 
