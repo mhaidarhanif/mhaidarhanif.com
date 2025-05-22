@@ -47,6 +47,7 @@ Social Media:
 - [LinkedIn](https://linkedin.com/in/mhaidarhanif)
 - [Twitter/X](https://twitter.com/mhaidarhanif)
 - [GitHub](https://github.com/mhaidarhanif)
+- [Telegram](https://t.me/mhaidarhanif)
 
 ## Notes
 
