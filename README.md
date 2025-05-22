@@ -37,7 +37,7 @@ Testimonials:
 
 Projects:
 
-- [Personal Wesbite](https://mhaidarhanif.com)
+- [Personal Website](https://mhaidarhanif.com)
 - [Project 2](#)
 
 ## Contact
