@@ -2,6 +2,8 @@
 
 The new personal website of M Haidar Hanif. Built by myself in May 2025.
 
+The goal is to be clean, simple, and easy to navigate. It showcases my skills, projects, and provides a platform for sharing notes and articles.
+
 Pages:
 
 - Home
