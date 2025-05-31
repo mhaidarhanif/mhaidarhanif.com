@@ -1,6 +1,13 @@
 # mhaidarhanif.com
 
-The new personal website of M Haidar Hanif. Built by myself in May 2025.
+The personal website of M Haidar Hanif, that being rebuilt since May 2025.
+
+Access it here:
+
+- [mhaidarhanif.com](https://mhaidarhanif.com)
+- [mhaidarhanif-com.vercel.app](https://mhaidarhanif-com.vercel.app)
+- [mhaidarhanif-com.pages.dev](https://mhaidarhanif-com.pages.dev)
+- [mhaidarhanif-com.netlify.app](https://mhaidarhanif-com.netlify.app)
 
 The goal is to be clean, simple, and easy to navigate. It showcases my skills, projects, and provides a platform for sharing notes and articles.
 
@@ -33,15 +40,6 @@ Skills:
 - Bun
 - React
 
-Testimonials:
-
-> "Positive words from clients or colleagues."
-
-Projects:
-
-- [Personal Website](https://mhaidarhanif.com)
-- [Project 2](#)
-
 ## Contact
 
 Social Media:
@@ -50,11 +48,6 @@ Social Media:
 - [Twitter/X](https://twitter.com/mhaidarhanif)
 - [GitHub](https://github.com/mhaidarhanif)
 - [Telegram](https://t.me/mhaidarhanif)
-
-## Notes
-
-- [Article Title 1](#)
-- [Article Title 2](#)
 
 ## Screenshots
 
