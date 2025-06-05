@@ -1,6 +1,8 @@
 body {
   margin: 0;
   font-family: sans-serif;
+  background-color: #0a0a0a;
+  color: #ffffff;
 }
 
 .intro {
@@ -8,11 +10,19 @@ body {
 }
 
 .navigation-links {
-  background-color: #eee;
   padding: 10px;
+}
+
+.navigation-links a {
+  color: #ffffff;
+  text-decoration: none;
 }
 
 .content {
   margin: 100px auto;
   max-width: 800px;
+}
+
+.profile-image {
+  border-radius: 20px;
 }
