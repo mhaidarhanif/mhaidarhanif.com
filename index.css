@@ -1,7 +1,18 @@
 body {
+  margin: 0;
   font-family: sans-serif;
 }
 
 .intro {
+  max-width: 800px;
+}
+
+.navigation-links {
+  background-color: #eee;
+  padding: 10px;
+}
+
+.content {
+  margin: 100px auto;
   max-width: 800px;
 }
