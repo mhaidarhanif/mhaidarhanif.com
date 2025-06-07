@@ -5,35 +5,70 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>About M Haidar Hanif</title>
     <meta name="description" content="The story about Haidar." />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
   </head>
 
-  <body>
-    <nav>
-      <h1>
-        <img src="/images/logo.svg" alt="Logo" />
-        <span>M Haidar Hanif</span>
-      </h1>
-      <ul>
-        <li>
-          <a href="/">Home</a>
-        </li>
-        <li>
-          <a href="/contact">Contact</a>
-        </li>
-        <li>
-          <a href="/about">About</a>
-        </li>
-        <li>
-          <a href="/notes">Notes</a>
-        </li>
-      </ul>
+  <body class="bg-gray-950 text-gray-100 min-h-screen flex flex-col">
+    <nav class="bg-gray-900/80 backdrop-blur sticky top-0 z-10 shadow-md">
+      <div
+        class="max-w-4xl mx-auto flex items-center justify-between px-6 py-4"
+      >
+        <a href="/" class="flex items-center gap-3">
+          <img src="/images/logo.svg" alt="Logo" class="w-10 h-10" />
+          <span class="text-xl font-bold tracking-tight text-cyan-400"
+            >M Haidar Hanif</span
+          >
+        </a>
+        <ul class="flex gap-6 text-base font-medium">
+          <li><a href="/" class="hover:text-cyan-400 transition">Home</a></li>
+          <li>
+            <a href="/contact" class="hover:text-cyan-400 transition"
+              >Contact</a
+            >
+          </li>
+          <li>
+            <a href="/about" class="text-cyan-400 underline underline-offset-4"
+              >About</a
+            >
+          </li>
+          <li>
+            <a href="/notes" class="hover:text-cyan-400 transition">Notes</a>
+          </li>
+        </ul>
+      </div>
     </nav>
 
-    <main>
-      <h2>About Me</h2>
+    <main class="flex-1 flex flex-col items-center justify-center px-4 py-12">
+      <section
+        class="bg-gray-900/70 rounded-2xl shadow-lg p-8 max-w-2xl w-full flex flex-col items-center gap-6"
+      >
+        <img
+          src="https://avatars.githubusercontent.com/u/2217289?v=4"
+          alt="M Haidar Hanif"
+          class="w-28 h-28 rounded-full border-4 border-cyan-400 shadow-lg"
+        />
+        <h2 class="text-3xl font-extrabold text-cyan-400">M Haidar Hanif</h2>
+        <p class="text-lg text-gray-300 text-center max-w-xl">
+          Hi! I'm Haidar, a passionate developer, writer, and lifelong learner.
+          I love building things for the web, sharing knowledge, and exploring
+          new ideas. Welcome to my about page!
+        </p>
+        <div class="flex gap-4 mt-2">
+          <a
+            href="/contact"
+            class="px-4 py-2 bg-cyan-500 text-white rounded-lg font-semibold shadow hover:bg-cyan-400 transition"
+            >Contact Me</a
+          >
+          <a
+            href="/notes"
+            class="px-4 py-2 border border-cyan-400 text-cyan-400 rounded-lg font-semibold hover:bg-cyan-900 transition"
+            >Read My Notes</a
+          >
+        </div>
+      </section>
     </main>
 
-    <footer>
+    <footer class="bg-gray-900/80 text-gray-400 text-center py-4 mt-8 text-sm">
       <p>Copyright &copy; 2025 M Haidar Hanif</p>
     </footer>
   </body>
