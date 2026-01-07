@@ -1,6 +1,6 @@
 # mhaidarhanif.com
 
-Personal website of M Haidar Hanif for demo in Bearmentor Bootcamp.
+Personal website of M Haidar Hanif.
 
 I want to show my profile, bio, photo, links, social media, companies, projects, posts, services, and more.
 
