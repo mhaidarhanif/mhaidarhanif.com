@@ -16,7 +16,7 @@ I'm a Software Engineer working for the last 15 years.
 
 - Name: M Haidar Hanif
 - Nick: Haidar
-- Location: Indonesia
+- Location: Jabodetabek, Indonesia
 
 ### Social Media
 
