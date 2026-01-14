@@ -6,7 +6,10 @@ I want to show my profile, bio, photo, links, social media, companies, projects,
 
 ## Links
 
-Check out the site at [mhaidarhanif.com](https://mhaidarhanif.com)
+Check out the site at:
+
+- [mhaidarhanif-com.netlify.app](https://mhaidarhanif-com.netlify.app)
+- [mhaidarhanif.com](https://mhaidarhanif.com)
 
 UI design on Figma: <https://www.figma.com/design/FSMjHIqtvhAHf8XXtxPZhL/mhaidarhanif.com>
 
