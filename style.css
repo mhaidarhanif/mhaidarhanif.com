@@ -3,3 +3,13 @@ body {
   margin: 0 auto;
   max-width: 50em;
 }
+
+.hero-greeting {
+  color: hsl(215, 92%, 25%);
+  font-size: 32px;
+}
+
+.hero-intro {
+  color: hsl(215, 92%, 35%);
+  font-size: 20px;
+}
