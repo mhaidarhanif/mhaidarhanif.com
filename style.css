@@ -14,11 +14,37 @@ body {
   font-size: 20px;
 }
 
-.button-primary {
-  color: hsl(0, 0%, 15%);
-  background-color: hsl(0, 0%, 90%);
+.hero-socials {
+  list-style: none;
+  padding: 0;
+}
+
+.button {
   border: none;
   padding: 5px 8px;
   border-radius: 4px;
   font-weight: 500;
+  color: inherit;
+  background-color: hsl(0, 0%, 90%);
+  text-decoration: none;
+}
+
+.button-primary {
+  color: hsl(0, 0%, 15%);
+  background-color: hsl(0, 0%, 90%);
+}
+
+.button-twitter {
+  color: hsl(215, 93%, 15%);
+  background-color: hsl(215, 93%, 85%);
+}
+
+.button-github {
+  color: hsl(0, 0%, 90%);
+  background-color: hsl(0, 0%, 15%);
+}
+
+.button-youtube {
+  color: hsl(0, 93%, 15%);
+  background-color: hsl(0, 93%, 85%);
 }
