@@ -13,3 +13,12 @@ body {
   color: hsl(215, 92%, 35%);
   font-size: 20px;
 }
+
+.button-primary {
+  color: hsl(0, 0%, 15%);
+  background-color: hsl(0, 0%, 90%);
+  border: none;
+  padding: 5px 8px;
+  border-radius: 4px;
+  font-weight: 500;
+}
