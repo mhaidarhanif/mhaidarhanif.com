@@ -29,6 +29,11 @@ body {
   text-decoration: none;
 }
 
+.button:hover {
+  opacity: 0.7;
+  transition: color 0.5s;
+}
+
 .button-primary {
   color: hsl(0, 0%, 15%);
   background-color: hsl(0, 0%, 90%);
