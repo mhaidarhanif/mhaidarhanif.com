@@ -4,8 +4,29 @@ body {
   max-width: 50em;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
 textarea {
   font-family: "Inter", sans-serif;
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.hero-photo {
+  border-radius: 100%;
 }
 
 .hero-greeting {
@@ -21,6 +42,9 @@ textarea {
 .hero-socials {
   list-style: none;
   padding: 0;
+
+  display: flex;
+  gap: 10px;
 }
 
 .button {
